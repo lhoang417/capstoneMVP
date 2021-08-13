@@ -19,4 +19,4 @@
 
 
 ## Future Features: 
-   - Allow users to comment on other user's teams
+   - Allow users to comment on other users' teams
