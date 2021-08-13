@@ -1,4 +1,4 @@
-# :squirrel: Pokemon Teams :squirrel:
+#  Pokemon Teams 
 
 ## App :
 #### A site where you can save teams of 6 pokemon just as regular pokemon trainers have 
