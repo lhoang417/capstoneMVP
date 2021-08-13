@@ -6,7 +6,7 @@
 ## MVP :
 #### User features:
 * Create an account and be able to log in/out
-* **Search** API for pokemon using search input 
+* **Search** for pokemon using search input 
 * Save pokemon to teams of 6
 * Add descriptions to the teams
 * Delete saved teams
