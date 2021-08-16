@@ -10,6 +10,7 @@
 * Save pokemon to teams of 6
 * Add descriptions to the teams
 * Delete saved teams
+* Allow users to compare their primary team vs other users' primary teams to see who would win in a battle.
 
 #### App features:
 * Search bar with filters to specify type of pokemon
@@ -18,4 +19,5 @@
 
 
 ## Future Features: 
-   - Allow users to comment on other users' teams
+   - Allow users to message other users.
+   - Allow Chatroom for everyone to trash talk on each other.
