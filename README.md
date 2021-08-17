@@ -14,7 +14,7 @@
 
 #### App features:
 * Search bar with filters to specify type of pokemon
-* Display full teams of pokemon with the option to select each pokemon separately and display image along with abilities
+* Display full teams of pokemon with the option to select each pokemon separately and display image along with type
 * Have option to either delete pokemon from team, or delete team altogether
 
 
